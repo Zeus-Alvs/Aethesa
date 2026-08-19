@@ -1,3 +1,6 @@
+---
+etiqueta: "Java (Spring) • React"
+---
 E-commerce conceitual focado em moda urbana sustentável, projetado do zero em colaboração com estudantes de design da universidade Belas Artes.
 
 **Engenharia & Arquitetura:**
